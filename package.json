@@ -1,0 +1,38 @@
+{
+  "name": "langoor-walk",
+  "version": "1.0.0",
+  "description": "The 21st century javascript unit testing framework.",
+  "main": "src/walk.js",
+  "scripts": {
+    "test": "langoor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langoor/walk.git"
+  },
+  "keywords": [
+    "test",
+    "tests",
+    "testing",
+    "langoor",
+    "mocha",
+    "chai",
+    "jest",
+    "supertest",
+    "karma",
+    "ava"
+  ],
+  "author": "squik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langoor/walk/issues"
+  },
+  "homepage": "https://github.com/langoor/walk#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "langoor": "^1.0.20"
+  }
+}
